@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\bin\Debug\net8.0\Prints all the Multiples of 17.exe
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\bin\Debug\net8.0\Prints all the Multiples of 17.deps.json
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\bin\Debug\net8.0\Prints all the Multiples of 17.runtimeconfig.json
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\bin\Debug\net8.0\Prints all the Multiples of 17.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\bin\Debug\net8.0\Prints all the Multiples of 17.pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\obj\Debug\net8.0\Prints all the Multiples of 17.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\obj\Debug\net8.0\Prints all the Multiples of 17.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\obj\Debug\net8.0\Prints all the Multiples of 17.AssemblyInfo.cs
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\obj\Debug\net8.0\Prints all the Multiples of 17.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\obj\Debug\net8.0\Prints all the Multiples of 17.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\obj\Debug\net8.0\refint\Prints all the Multiples of 17.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\obj\Debug\net8.0\Prints all the Multiples of 17.pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\obj\Debug\net8.0\Prints all the Multiples of 17.genruntimeconfig.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Prints all the Multiples of 17\obj\Debug\net8.0\ref\Prints all the Multiples of 17.dll

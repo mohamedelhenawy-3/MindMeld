@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\bin\Debug\net8.0\Palindrome.exe
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\bin\Debug\net8.0\Palindrome.deps.json
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\bin\Debug\net8.0\Palindrome.runtimeconfig.json
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\bin\Debug\net8.0\Palindrome.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\bin\Debug\net8.0\Palindrome.pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\obj\Debug\net8.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfo.cs
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\obj\Debug\net8.0\Palindrome.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\obj\Debug\net8.0\Palindrome.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\obj\Debug\net8.0\refint\Palindrome.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\obj\Debug\net8.0\Palindrome.pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\obj\Debug\net8.0\Palindrome.genruntimeconfig.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Palindrome\obj\Debug\net8.0\ref\Palindrome.dll

@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\bin\Debug\net8.0\Conver 2D to 1D Array.exe
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\bin\Debug\net8.0\Conver 2D to 1D Array.deps.json
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\bin\Debug\net8.0\Conver 2D to 1D Array.runtimeconfig.json
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\bin\Debug\net8.0\Conver 2D to 1D Array.dll
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\bin\Debug\net8.0\Conver 2D to 1D Array.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\obj\Debug\net8.0\Conver 2D to 1D Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\obj\Debug\net8.0\Conver 2D to 1D Array.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\obj\Debug\net8.0\Conver 2D to 1D Array.AssemblyInfo.cs
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\obj\Debug\net8.0\Conver 2D to 1D Array.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\obj\Debug\net8.0\Conver 2D to 1D Array.dll
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\obj\Debug\net8.0\refint\Conver 2D to 1D Array.dll
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\obj\Debug\net8.0\Conver 2D to 1D Array.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\obj\Debug\net8.0\Conver 2D to 1D Array.genruntimeconfig.cache
+F:\C# Problems and solutions\Day 1\Basics C#\Conver 2D to 1D Array\obj\Debug\net8.0\ref\Conver 2D to 1D Array.dll

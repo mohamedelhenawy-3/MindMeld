@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\bin\Debug\net8.0\Program Swaps 2 Numbers.exe
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\bin\Debug\net8.0\Program Swaps 2 Numbers.deps.json
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\bin\Debug\net8.0\Program Swaps 2 Numbers.runtimeconfig.json
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\bin\Debug\net8.0\Program Swaps 2 Numbers.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\bin\Debug\net8.0\Program Swaps 2 Numbers.pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\obj\Debug\net8.0\Program Swaps 2 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\obj\Debug\net8.0\Program Swaps 2 Numbers.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\obj\Debug\net8.0\Program Swaps 2 Numbers.AssemblyInfo.cs
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\obj\Debug\net8.0\Program Swaps 2 Numbers.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\obj\Debug\net8.0\Program Swaps 2 Numbers.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\obj\Debug\net8.0\refint\Program Swaps 2 Numbers.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\obj\Debug\net8.0\Program Swaps 2 Numbers.pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\obj\Debug\net8.0\Program Swaps 2 Numbers.genruntimeconfig.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Program Swaps 2 Numbers\obj\Debug\net8.0\ref\Program Swaps 2 Numbers.dll

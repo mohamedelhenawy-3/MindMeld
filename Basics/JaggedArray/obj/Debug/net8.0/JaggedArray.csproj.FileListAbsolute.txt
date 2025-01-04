@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\bin\Debug\net8.0\JaggedArray.exe
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\bin\Debug\net8.0\JaggedArray.deps.json
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\bin\Debug\net8.0\JaggedArray.runtimeconfig.json
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\bin\Debug\net8.0\JaggedArray.dll
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\bin\Debug\net8.0\JaggedArray.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\obj\Debug\net8.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\obj\Debug\net8.0\JaggedArray.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\obj\Debug\net8.0\JaggedArray.AssemblyInfo.cs
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\obj\Debug\net8.0\JaggedArray.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\obj\Debug\net8.0\JaggedArray.dll
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\obj\Debug\net8.0\refint\JaggedArray.dll
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\obj\Debug\net8.0\JaggedArray.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\obj\Debug\net8.0\JaggedArray.genruntimeconfig.cache
+F:\C# Problems and solutions\Day 1\Basics C#\JaggedArray\obj\Debug\net8.0\ref\JaggedArray.dll

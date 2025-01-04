@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\bin\Debug\net8.0\CopyArrayFromTypeTonother.exe
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\bin\Debug\net8.0\CopyArrayFromTypeTonother.deps.json
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\bin\Debug\net8.0\CopyArrayFromTypeTonother.runtimeconfig.json
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\bin\Debug\net8.0\CopyArrayFromTypeTonother.dll
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\bin\Debug\net8.0\CopyArrayFromTypeTonother.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\obj\Debug\net8.0\CopyArrayFromTypeTonother.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\obj\Debug\net8.0\CopyArrayFromTypeTonother.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\obj\Debug\net8.0\CopyArrayFromTypeTonother.AssemblyInfo.cs
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\obj\Debug\net8.0\CopyArrayFromTypeTonother.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\obj\Debug\net8.0\CopyArrayFromTypeTonother.dll
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\obj\Debug\net8.0\refint\CopyArrayFromTypeTonother.dll
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\obj\Debug\net8.0\CopyArrayFromTypeTonother.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\obj\Debug\net8.0\CopyArrayFromTypeTonother.genruntimeconfig.cache
+F:\C# Problems and solutions\Day 1\Basics C#\CopyArrayFromTypeTonother\obj\Debug\net8.0\ref\CopyArrayFromTypeTonother.dll

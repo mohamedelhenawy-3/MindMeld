@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Conver 2D to 1D Array/1.0.0": {
+        "runtime": {
+          "Conver 2D to 1D Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Conver 2D to 1D Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

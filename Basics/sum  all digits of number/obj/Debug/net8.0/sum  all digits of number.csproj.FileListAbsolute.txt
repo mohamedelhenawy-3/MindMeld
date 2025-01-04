@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\bin\Debug\net8.0\sum  all digits of number.exe
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\bin\Debug\net8.0\sum  all digits of number.deps.json
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\bin\Debug\net8.0\sum  all digits of number.runtimeconfig.json
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\bin\Debug\net8.0\sum  all digits of number.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\bin\Debug\net8.0\sum  all digits of number.pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\obj\Debug\net8.0\sum  all digits of number.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\obj\Debug\net8.0\sum  all digits of number.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\obj\Debug\net8.0\sum  all digits of number.AssemblyInfo.cs
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\obj\Debug\net8.0\sum  all digits of number.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\obj\Debug\net8.0\sum  all digits of number.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\obj\Debug\net8.0\refint\sum  all digits of number.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\obj\Debug\net8.0\sum  all digits of number.pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\obj\Debug\net8.0\sum  all digits of number.genruntimeconfig.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\sum  all digits of number\obj\Debug\net8.0\ref\sum  all digits of number.dll

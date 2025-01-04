@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\bin\Debug\net8.0\Replacecharin string.exe
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\bin\Debug\net8.0\Replacecharin string.deps.json
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\bin\Debug\net8.0\Replacecharin string.runtimeconfig.json
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\bin\Debug\net8.0\Replacecharin string.dll
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\bin\Debug\net8.0\Replacecharin string.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\obj\Debug\net8.0\Replacecharin string.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\obj\Debug\net8.0\Replacecharin string.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\obj\Debug\net8.0\Replacecharin string.AssemblyInfo.cs
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\obj\Debug\net8.0\Replacecharin string.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\obj\Debug\net8.0\Replacecharin string.dll
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\obj\Debug\net8.0\refint\Replacecharin string.dll
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\obj\Debug\net8.0\Replacecharin string.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\obj\Debug\net8.0\Replacecharin string.genruntimeconfig.cache
+F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\obj\Debug\net8.0\ref\Replacecharin string.dll

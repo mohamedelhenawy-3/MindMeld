@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\bin\Debug\net8.0\MergedArray.exe
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\bin\Debug\net8.0\MergedArray.deps.json
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\bin\Debug\net8.0\MergedArray.runtimeconfig.json
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\bin\Debug\net8.0\MergedArray.dll
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\bin\Debug\net8.0\MergedArray.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\obj\Debug\net8.0\MergedArray.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\obj\Debug\net8.0\MergedArray.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\obj\Debug\net8.0\MergedArray.AssemblyInfo.cs
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\obj\Debug\net8.0\MergedArray.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\obj\Debug\net8.0\MergedArray.dll
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\obj\Debug\net8.0\refint\MergedArray.dll
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\obj\Debug\net8.0\MergedArray.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\obj\Debug\net8.0\MergedArray.genruntimeconfig.cache
+F:\C# Problems and solutions\Day 1\Basics C#\MergedArray\obj\Debug\net8.0\ref\MergedArray.dll

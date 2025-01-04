@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prints the Sum of all the Multiples of 3 and 5/1.0.0": {
+        "runtime": {
+          "Prints the Sum of all the Multiples of 3 and 5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prints the Sum of all the Multiples of 3 and 5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

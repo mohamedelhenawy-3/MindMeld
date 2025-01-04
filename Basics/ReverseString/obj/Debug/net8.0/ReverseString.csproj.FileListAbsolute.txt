@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\bin\Debug\net8.0\ReverseString.exe
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\bin\Debug\net8.0\ReverseString.deps.json
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\bin\Debug\net8.0\ReverseString.runtimeconfig.json
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\bin\Debug\net8.0\ReverseString.dll
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\bin\Debug\net8.0\ReverseString.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\obj\Debug\net8.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\obj\Debug\net8.0\ReverseString.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\obj\Debug\net8.0\ReverseString.AssemblyInfo.cs
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\obj\Debug\net8.0\ReverseString.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\obj\Debug\net8.0\ReverseString.dll
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\obj\Debug\net8.0\refint\ReverseString.dll
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\obj\Debug\net8.0\ReverseString.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\obj\Debug\net8.0\ReverseString.genruntimeconfig.cache
+F:\C# Problems and solutions\Day 1\Basics C#\ReverseString\obj\Debug\net8.0\ref\ReverseString.dll

@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\bin\Debug\net8.0\Odd Numbers within a Range..exe
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\bin\Debug\net8.0\Odd Numbers within a Range..deps.json
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\bin\Debug\net8.0\Odd Numbers within a Range..runtimeconfig.json
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\bin\Debug\net8.0\Odd Numbers within a Range..dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\bin\Debug\net8.0\Odd Numbers within a Range..pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\obj\Debug\net8.0\Odd Numbers within a Range..GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\obj\Debug\net8.0\Odd Numbers within a Range..AssemblyInfoInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\obj\Debug\net8.0\Odd Numbers within a Range..AssemblyInfo.cs
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\obj\Debug\net8.0\Odd Numbers within a Range..csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\obj\Debug\net8.0\Odd Numbers within a Range..dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\obj\Debug\net8.0\refint\Odd Numbers within a Range..dll
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\obj\Debug\net8.0\Odd Numbers within a Range..pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\obj\Debug\net8.0\Odd Numbers within a Range..genruntimeconfig.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\Odd Numbers within a Range\obj\Debug\net8.0\ref\Odd Numbers within a Range..dll

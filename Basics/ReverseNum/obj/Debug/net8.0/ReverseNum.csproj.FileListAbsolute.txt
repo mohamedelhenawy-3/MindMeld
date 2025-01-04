@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\bin\Debug\net8.0\ReverseNum.exe
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\bin\Debug\net8.0\ReverseNum.deps.json
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\bin\Debug\net8.0\ReverseNum.runtimeconfig.json
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\bin\Debug\net8.0\ReverseNum.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\bin\Debug\net8.0\ReverseNum.pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\obj\Debug\net8.0\ReverseNum.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\obj\Debug\net8.0\ReverseNum.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\obj\Debug\net8.0\ReverseNum.AssemblyInfo.cs
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\obj\Debug\net8.0\ReverseNum.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\obj\Debug\net8.0\ReverseNum.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\obj\Debug\net8.0\refint\ReverseNum.dll
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\obj\Debug\net8.0\ReverseNum.pdb
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\obj\Debug\net8.0\ReverseNum.genruntimeconfig.cache
+F:\C# Problems and solutions\C# Basic\Basics C#\ReverseNum\obj\Debug\net8.0\ref\ReverseNum.dll

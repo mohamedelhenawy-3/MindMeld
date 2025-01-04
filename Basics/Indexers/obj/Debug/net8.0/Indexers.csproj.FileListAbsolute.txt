@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\bin\Debug\net8.0\Indexers.exe
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\bin\Debug\net8.0\Indexers.deps.json
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\bin\Debug\net8.0\Indexers.runtimeconfig.json
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\bin\Debug\net8.0\Indexers.dll
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\bin\Debug\net8.0\Indexers.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\obj\Debug\net8.0\Indexers.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\obj\Debug\net8.0\Indexers.AssemblyInfo.cs
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\obj\Debug\net8.0\Indexers.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\obj\Debug\net8.0\Indexers.dll
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\obj\Debug\net8.0\refint\Indexers.dll
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\obj\Debug\net8.0\Indexers.pdb
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\obj\Debug\net8.0\Indexers.genruntimeconfig.cache
+F:\C# Problems and solutions\Day 1\Basics C#\Indexers\obj\Debug\net8.0\ref\Indexers.dll

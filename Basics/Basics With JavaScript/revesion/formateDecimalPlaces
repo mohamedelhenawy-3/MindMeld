@@ -1,0 +1,8 @@
+/*each num mush fomated to round two decimal spaces
+*/
+function DecimalNUm(Num){
+    return Number(Num.toFixed(2))
+}
+
+
+console.log(DecimalNUm(3.488937845))

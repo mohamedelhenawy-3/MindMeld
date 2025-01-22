@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\bin\Debug\net8.0\Print Repeated Num.exe
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\bin\Debug\net8.0\Print Repeated Num.deps.json
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\bin\Debug\net8.0\Print Repeated Num.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\bin\Debug\net8.0\Print Repeated Num.dll
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\bin\Debug\net8.0\Print Repeated Num.pdb
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\obj\Debug\net8.0\Print Repeated Num.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\obj\Debug\net8.0\Print Repeated Num.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\obj\Debug\net8.0\Print Repeated Num.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\obj\Debug\net8.0\Print Repeated Num.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\obj\Debug\net8.0\Print Repeated Num.dll
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\obj\Debug\net8.0\refint\Print Repeated Num.dll
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\obj\Debug\net8.0\Print Repeated Num.pdb
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\obj\Debug\net8.0\Print Repeated Num.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\Print Repeated Num\obj\Debug\net8.0\ref\Print Repeated Num.dll

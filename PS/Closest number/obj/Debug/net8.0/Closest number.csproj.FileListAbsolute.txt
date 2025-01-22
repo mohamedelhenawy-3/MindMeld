@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\Closest number\bin\Debug\net8.0\Closest number.exe
+F:\C# Problems and solutions\Special  c# Programs\Closest number\bin\Debug\net8.0\Closest number.deps.json
+F:\C# Problems and solutions\Special  c# Programs\Closest number\bin\Debug\net8.0\Closest number.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\Closest number\bin\Debug\net8.0\Closest number.dll
+F:\C# Problems and solutions\Special  c# Programs\Closest number\bin\Debug\net8.0\Closest number.pdb
+F:\C# Problems and solutions\Special  c# Programs\Closest number\obj\Debug\net8.0\Closest number.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\Closest number\obj\Debug\net8.0\Closest number.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Closest number\obj\Debug\net8.0\Closest number.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\Closest number\obj\Debug\net8.0\Closest number.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Closest number\obj\Debug\net8.0\Closest number.dll
+F:\C# Problems and solutions\Special  c# Programs\Closest number\obj\Debug\net8.0\refint\Closest number.dll
+F:\C# Problems and solutions\Special  c# Programs\Closest number\obj\Debug\net8.0\Closest number.pdb
+F:\C# Problems and solutions\Special  c# Programs\Closest number\obj\Debug\net8.0\Closest number.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\Closest number\obj\Debug\net8.0\ref\Closest number.dll

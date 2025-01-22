@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\bin\Debug\net8.0\Stowatch.exe
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\bin\Debug\net8.0\Stowatch.deps.json
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\bin\Debug\net8.0\Stowatch.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\bin\Debug\net8.0\Stowatch.dll
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\bin\Debug\net8.0\Stowatch.pdb
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\obj\Debug\net8.0\Stowatch.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\obj\Debug\net8.0\Stowatch.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\obj\Debug\net8.0\Stowatch.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\obj\Debug\net8.0\Stowatch.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\obj\Debug\net8.0\Stowatch.dll
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\obj\Debug\net8.0\refint\Stowatch.dll
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\obj\Debug\net8.0\Stowatch.pdb
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\obj\Debug\net8.0\Stowatch.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\Stowatch\obj\Debug\net8.0\ref\Stowatch.dll

@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\bin\Debug\net8.0\IpAddress.exe
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\bin\Debug\net8.0\IpAddress.deps.json
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\bin\Debug\net8.0\IpAddress.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\bin\Debug\net8.0\IpAddress.dll
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\bin\Debug\net8.0\IpAddress.pdb
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\obj\Debug\net8.0\IpAddress.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\obj\Debug\net8.0\IpAddress.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\obj\Debug\net8.0\IpAddress.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\obj\Debug\net8.0\IpAddress.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\obj\Debug\net8.0\IpAddress.dll
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\obj\Debug\net8.0\refint\IpAddress.dll
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\obj\Debug\net8.0\IpAddress.pdb
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\obj\Debug\net8.0\IpAddress.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\IpAddress\obj\Debug\net8.0\ref\IpAddress.dll

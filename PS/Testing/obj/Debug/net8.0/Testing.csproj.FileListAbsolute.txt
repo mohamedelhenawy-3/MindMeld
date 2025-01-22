@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Testing\bin\Debug\net8.0\Testing.exe
+F:\C# Problems and solutions\Special  c# Programs\Testing\bin\Debug\net8.0\Testing.deps.json
+F:\C# Problems and solutions\Special  c# Programs\Testing\bin\Debug\net8.0\Testing.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\Testing\bin\Debug\net8.0\Testing.dll
+F:\C# Problems and solutions\Special  c# Programs\Testing\bin\Debug\net8.0\Testing.pdb
+F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\Testing.dll
+F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\refint\Testing.dll
+F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\Testing.pdb
+F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\Testing.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\ref\Testing.dll

@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\bin\Debug\net8.0\Longest Consecutive Sequence.exe
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\bin\Debug\net8.0\Longest Consecutive Sequence.deps.json
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\bin\Debug\net8.0\Longest Consecutive Sequence.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\bin\Debug\net8.0\Longest Consecutive Sequence.dll
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\bin\Debug\net8.0\Longest Consecutive Sequence.pdb
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\obj\Debug\net8.0\Longest Consecutive Sequence.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\obj\Debug\net8.0\Longest Consecutive Sequence.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\obj\Debug\net8.0\Longest Consecutive Sequence.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\obj\Debug\net8.0\Longest Consecutive Sequence.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\obj\Debug\net8.0\Longest Consecutive Sequence.dll
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\obj\Debug\net8.0\refint\Longest Consecutive Sequence.dll
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\obj\Debug\net8.0\Longest Consecutive Sequence.pdb
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\obj\Debug\net8.0\Longest Consecutive Sequence.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\Longest Consecutive Sequence\obj\Debug\net8.0\ref\Longest Consecutive Sequence.dll

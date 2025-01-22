@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\bin\Debug\net8.0\ATM Transactions.exe
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\bin\Debug\net8.0\ATM Transactions.deps.json
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\bin\Debug\net8.0\ATM Transactions.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\bin\Debug\net8.0\ATM Transactions.dll
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\bin\Debug\net8.0\ATM Transactions.pdb
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\obj\Debug\net8.0\ATM Transactions.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\obj\Debug\net8.0\ATM Transactions.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\obj\Debug\net8.0\ATM Transactions.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\obj\Debug\net8.0\ATM Transactions.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\obj\Debug\net8.0\ATM Transactions.dll
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\obj\Debug\net8.0\refint\ATM Transactions.dll
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\obj\Debug\net8.0\ATM Transactions.pdb
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\obj\Debug\net8.0\ATM Transactions.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\ATM Transactions\obj\Debug\net8.0\ref\ATM Transactions.dll

@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\obj\Debug\net8.0\Multicasting Delgates.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\obj\Debug\net8.0\Multicasting Delgates.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\obj\Debug\net8.0\Multicasting Delgates.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\obj\Debug\net8.0\Multicasting Delgates.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\bin\Debug\net8.0\Multicasting Delgates.exe
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\bin\Debug\net8.0\Multicasting Delgates.deps.json
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\bin\Debug\net8.0\Multicasting Delgates.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\bin\Debug\net8.0\Multicasting Delgates.dll
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\bin\Debug\net8.0\Multicasting Delgates.pdb
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\obj\Debug\net8.0\Multicasting Delgates.dll
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\obj\Debug\net8.0\refint\Multicasting Delgates.dll
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\obj\Debug\net8.0\Multicasting Delgates.pdb
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\obj\Debug\net8.0\Multicasting Delgates.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\Multicasting Delgates\obj\Debug\net8.0\ref\Multicasting Delgates.dll

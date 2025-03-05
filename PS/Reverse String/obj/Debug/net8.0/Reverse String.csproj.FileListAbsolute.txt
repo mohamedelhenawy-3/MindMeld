@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\bin\Debug\net8.0\Reverse String.exe
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\bin\Debug\net8.0\Reverse String.deps.json
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\bin\Debug\net8.0\Reverse String.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\bin\Debug\net8.0\Reverse String.dll
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\bin\Debug\net8.0\Reverse String.pdb
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\obj\Debug\net8.0\Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\obj\Debug\net8.0\Reverse String.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\obj\Debug\net8.0\Reverse String.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\obj\Debug\net8.0\Reverse String.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\obj\Debug\net8.0\Reverse String.dll
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\obj\Debug\net8.0\refint\Reverse String.dll
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\obj\Debug\net8.0\Reverse String.pdb
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\obj\Debug\net8.0\Reverse String.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\Reverse String\obj\Debug\net8.0\ref\Reverse String.dll

@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\bin\Debug\net8.0\ConvertBetween Int and string.exe
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\bin\Debug\net8.0\ConvertBetween Int and string.deps.json
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\bin\Debug\net8.0\ConvertBetween Int and string.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\bin\Debug\net8.0\ConvertBetween Int and string.dll
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\bin\Debug\net8.0\ConvertBetween Int and string.pdb
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\obj\Debug\net8.0\ConvertBetween Int and string.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\obj\Debug\net8.0\ConvertBetween Int and string.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\obj\Debug\net8.0\ConvertBetween Int and string.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\obj\Debug\net8.0\ConvertBetween Int and string.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\obj\Debug\net8.0\ConvertBetween Int and string.dll
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\obj\Debug\net8.0\refint\ConvertBetween Int and string.dll
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\obj\Debug\net8.0\ConvertBetween Int and string.pdb
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\obj\Debug\net8.0\ConvertBetween Int and string.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\ConvertBetween Int and string\obj\Debug\net8.0\ref\ConvertBetween Int and string.dll

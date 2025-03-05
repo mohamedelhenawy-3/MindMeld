@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\bin\Debug\net8.0\Shifting In Array.exe
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\bin\Debug\net8.0\Shifting In Array.deps.json
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\bin\Debug\net8.0\Shifting In Array.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\bin\Debug\net8.0\Shifting In Array.dll
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\bin\Debug\net8.0\Shifting In Array.pdb
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\obj\Debug\net8.0\Shifting In Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\obj\Debug\net8.0\Shifting In Array.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\obj\Debug\net8.0\Shifting In Array.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\obj\Debug\net8.0\Shifting In Array.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\obj\Debug\net8.0\Shifting In Array.dll
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\obj\Debug\net8.0\refint\Shifting In Array.dll
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\obj\Debug\net8.0\Shifting In Array.pdb
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\obj\Debug\net8.0\Shifting In Array.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\Shifting In Array\obj\Debug\net8.0\ref\Shifting In Array.dll

@@ -1,0 +1,14 @@
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\bin\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.exe
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\bin\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.deps.json
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\bin\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.runtimeconfig.json
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\bin\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.dll
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\bin\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.pdb
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\obj\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.GeneratedMSBuildEditorConfig.editorconfig
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\obj\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.AssemblyInfoInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\obj\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.AssemblyInfo.cs
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\obj\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.csproj.CoreCompileInputs.cache
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\obj\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.dll
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\obj\Debug\net8.0\refint\Find Subsequence of Length K With the Largest Sum.dll
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\obj\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.pdb
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\obj\Debug\net8.0\Find Subsequence of Length K With the Largest Sum.genruntimeconfig.cache
+F:\C# Problems and solutions\Special  c# Programs\Find Subsequence of Length K With the Largest Sum\obj\Debug\net8.0\ref\Find Subsequence of Length K With the Largest Sum.dll

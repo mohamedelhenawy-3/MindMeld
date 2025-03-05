@@ -5,6 +5,8 @@
        public static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+
+            Console.WriteLine(v);
         }
         public string LongestCommonPrefix(string[] strs)
         {
@@ -39,6 +41,7 @@
                 }
             }
             return left.Substring(0, minlength);
+           
         }
     }
    

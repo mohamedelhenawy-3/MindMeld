@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Program Swaps 2 Numbers\\Program Swaps 2 Numbers.csproj": {}
+    "F:\\MindMeld\\Basics\\Program Swaps 2 Numbers\\Program Swaps 2 Numbers.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Program Swaps 2 Numbers\\Program Swaps 2 Numbers.csproj": {
+    "F:\\MindMeld\\Basics\\Program Swaps 2 Numbers\\Program Swaps 2 Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Program Swaps 2 Numbers\\Program Swaps 2 Numbers.csproj",
+        "projectUniqueName": "F:\\MindMeld\\Basics\\Program Swaps 2 Numbers\\Program Swaps 2 Numbers.csproj",
         "projectName": "Program Swaps 2 Numbers",
-        "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Program Swaps 2 Numbers\\Program Swaps 2 Numbers.csproj",
+        "projectPath": "F:\\MindMeld\\Basics\\Program Swaps 2 Numbers\\Program Swaps 2 Numbers.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Program Swaps 2 Numbers\\obj\\",
+        "outputPath": "F:\\MindMeld\\Basics\\Program Swaps 2 Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

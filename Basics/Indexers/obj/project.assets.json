@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Indexers\\Indexers.csproj",
+      "projectUniqueName": "F:\\MindMeld\\Basics\\Indexers\\Indexers.csproj",
       "projectName": "Indexers",
-      "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Indexers\\Indexers.csproj",
+      "projectPath": "F:\\MindMeld\\Basics\\Indexers\\Indexers.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Indexers\\obj\\",
+      "outputPath": "F:\\MindMeld\\Basics\\Indexers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

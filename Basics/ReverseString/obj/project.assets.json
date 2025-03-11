@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\ReverseString\\ReverseString.csproj",
+      "projectUniqueName": "F:\\MindMeld\\Basics\\ReverseString\\ReverseString.csproj",
       "projectName": "ReverseString",
-      "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\ReverseString\\ReverseString.csproj",
+      "projectPath": "F:\\MindMeld\\Basics\\ReverseString\\ReverseString.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\ReverseString\\obj\\",
+      "outputPath": "F:\\MindMeld\\Basics\\ReverseString\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

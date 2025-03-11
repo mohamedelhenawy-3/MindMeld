@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Prints all the Multiples of 17\\Prints all the Multiples of 17.csproj": {}
+    "F:\\MindMeld\\Basics\\Prints all the Multiples of 17\\Prints all the Multiples of 17.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Prints all the Multiples of 17\\Prints all the Multiples of 17.csproj": {
+    "F:\\MindMeld\\Basics\\Prints all the Multiples of 17\\Prints all the Multiples of 17.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Prints all the Multiples of 17\\Prints all the Multiples of 17.csproj",
+        "projectUniqueName": "F:\\MindMeld\\Basics\\Prints all the Multiples of 17\\Prints all the Multiples of 17.csproj",
         "projectName": "Prints all the Multiples of 17",
-        "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Prints all the Multiples of 17\\Prints all the Multiples of 17.csproj",
+        "projectPath": "F:\\MindMeld\\Basics\\Prints all the Multiples of 17\\Prints all the Multiples of 17.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Prints all the Multiples of 17\\obj\\",
+        "outputPath": "F:\\MindMeld\\Basics\\Prints all the Multiples of 17\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

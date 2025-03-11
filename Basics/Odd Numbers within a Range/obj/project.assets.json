@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Odd Numbers within a Range\\Odd Numbers within a Range..csproj",
+      "projectUniqueName": "F:\\MindMeld\\Basics\\Odd Numbers within a Range\\Odd Numbers within a Range..csproj",
       "projectName": "Odd Numbers within a Range.",
-      "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Odd Numbers within a Range\\Odd Numbers within a Range..csproj",
+      "projectPath": "F:\\MindMeld\\Basics\\Odd Numbers within a Range\\Odd Numbers within a Range..csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Odd Numbers within a Range\\obj\\",
+      "outputPath": "F:\\MindMeld\\Basics\\Odd Numbers within a Range\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

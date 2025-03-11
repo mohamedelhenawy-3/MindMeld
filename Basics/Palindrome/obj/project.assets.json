@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Palindrome\\Palindrome.csproj",
+      "projectUniqueName": "F:\\MindMeld\\Basics\\Palindrome\\Palindrome.csproj",
       "projectName": "Palindrome",
-      "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Palindrome\\Palindrome.csproj",
+      "projectPath": "F:\\MindMeld\\Basics\\Palindrome\\Palindrome.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Palindrome\\obj\\",
+      "outputPath": "F:\\MindMeld\\Basics\\Palindrome\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

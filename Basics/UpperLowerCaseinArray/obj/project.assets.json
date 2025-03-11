@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\UpperLowerCaseinArray\\UpperLowerCaseinArray.csproj",
+      "projectUniqueName": "F:\\MindMeld\\Basics\\UpperLowerCaseinArray\\UpperLowerCaseinArray.csproj",
       "projectName": "UpperLowerCaseinArray",
-      "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\UpperLowerCaseinArray\\UpperLowerCaseinArray.csproj",
+      "projectPath": "F:\\MindMeld\\Basics\\UpperLowerCaseinArray\\UpperLowerCaseinArray.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\UpperLowerCaseinArray\\obj\\",
+      "outputPath": "F:\\MindMeld\\Basics\\UpperLowerCaseinArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prints the Sum of all the Multiples of 3 and 5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e9fbbef76007b3c2fcdaa7c472eaf947188ced7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prints the Sum of all the Multiples of 3 and 5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prints the Sum of all the Multiples of 3 and 5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

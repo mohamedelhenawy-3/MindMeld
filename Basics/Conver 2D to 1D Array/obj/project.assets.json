@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Conver 2D to 1D Array\\Conver 2D to 1D Array.csproj",
+      "projectUniqueName": "F:\\MindMeld\\Basics\\Conver 2D to 1D Array\\Conver 2D to 1D Array.csproj",
       "projectName": "Conver 2D to 1D Array",
-      "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Conver 2D to 1D Array\\Conver 2D to 1D Array.csproj",
+      "projectPath": "F:\\MindMeld\\Basics\\Conver 2D to 1D Array\\Conver 2D to 1D Array.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Conver 2D to 1D Array\\obj\\",
+      "outputPath": "F:\\MindMeld\\Basics\\Conver 2D to 1D Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

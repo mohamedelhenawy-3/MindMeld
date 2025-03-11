@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\CheckOddOrEven\\CheckOddOrEven.csproj": {}
+    "F:\\MindMeld\\Basics\\CheckOddOrEven\\CheckOddOrEven.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\CheckOddOrEven\\CheckOddOrEven.csproj": {
+    "F:\\MindMeld\\Basics\\CheckOddOrEven\\CheckOddOrEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\CheckOddOrEven\\CheckOddOrEven.csproj",
+        "projectUniqueName": "F:\\MindMeld\\Basics\\CheckOddOrEven\\CheckOddOrEven.csproj",
         "projectName": "CheckOddOrEven",
-        "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\CheckOddOrEven\\CheckOddOrEven.csproj",
+        "projectPath": "F:\\MindMeld\\Basics\\CheckOddOrEven\\CheckOddOrEven.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\CheckOddOrEven\\obj\\",
+        "outputPath": "F:\\MindMeld\\Basics\\CheckOddOrEven\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

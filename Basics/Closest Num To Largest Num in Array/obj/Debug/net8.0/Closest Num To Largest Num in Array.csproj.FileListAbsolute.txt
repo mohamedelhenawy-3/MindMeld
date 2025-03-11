@@ -1,0 +1,15 @@
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\bin\Debug\net8.0\Closest Num To Largest Num in Array.exe
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\bin\Debug\net8.0\Closest Num To Largest Num in Array.deps.json
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\bin\Debug\net8.0\Closest Num To Largest Num in Array.runtimeconfig.json
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\bin\Debug\net8.0\Closest Num To Largest Num in Array.dll
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\bin\Debug\net8.0\Closest Num To Largest Num in Array.pdb
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\obj\Debug\net8.0\Closest Num To Largest Num in Array.GeneratedMSBuildEditorConfig.editorconfig
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\obj\Debug\net8.0\Closest Num To Largest Num in Array.AssemblyInfoInputs.cache
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\obj\Debug\net8.0\Closest Num To Largest Num in Array.AssemblyInfo.cs
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\obj\Debug\net8.0\Closest Num To Largest Num in Array.csproj.CoreCompileInputs.cache
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\obj\Debug\net8.0\Closest Num To Largest Num in Array.sourcelink.json
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\obj\Debug\net8.0\Closest Num To Largest Num in Array.dll
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\obj\Debug\net8.0\refint\Closest Num To Largest Num in Array.dll
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\obj\Debug\net8.0\Closest Num To Largest Num in Array.pdb
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\obj\Debug\net8.0\Closest Num To Largest Num in Array.genruntimeconfig.cache
+F:\MindMeld\Basics\Closest Num To Largest Num in Array\obj\Debug\net8.0\ref\Closest Num To Largest Num in Array.dll

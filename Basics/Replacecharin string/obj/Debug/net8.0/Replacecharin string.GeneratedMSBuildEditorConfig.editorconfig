@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Replacecharin_string
-build_property.ProjectDir = F:\C# Problems and solutions\Day 1\Basics C#\Replacecharin string\
+build_property.ProjectDir = F:\MindMeld\Basics\Replacecharin string\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Closest Num To Largest Num in Array/1.0.0": {
+        "runtime": {
+          "Closest Num To Largest Num in Array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Closest Num To Largest Num in Array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

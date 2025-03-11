@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Splitter\\Splitter.csproj": {}
+    "F:\\MindMeld\\Basics\\Splitter\\Splitter.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Splitter\\Splitter.csproj": {
+    "F:\\MindMeld\\Basics\\Splitter\\Splitter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Splitter\\Splitter.csproj",
+        "projectUniqueName": "F:\\MindMeld\\Basics\\Splitter\\Splitter.csproj",
         "projectName": "Splitter",
-        "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Splitter\\Splitter.csproj",
+        "projectPath": "F:\\MindMeld\\Basics\\Splitter\\Splitter.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\Splitter\\obj\\",
+        "outputPath": "F:\\MindMeld\\Basics\\Splitter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\CopyArrayFromTypeTonother\\CopyArrayFromTypeTonother.csproj": {}
+    "F:\\MindMeld\\Basics\\CopyArrayFromTypeTonother\\CopyArrayFromTypeTonother.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\CopyArrayFromTypeTonother\\CopyArrayFromTypeTonother.csproj": {
+    "F:\\MindMeld\\Basics\\CopyArrayFromTypeTonother\\CopyArrayFromTypeTonother.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\CopyArrayFromTypeTonother\\CopyArrayFromTypeTonother.csproj",
+        "projectUniqueName": "F:\\MindMeld\\Basics\\CopyArrayFromTypeTonother\\CopyArrayFromTypeTonother.csproj",
         "projectName": "CopyArrayFromTypeTonother",
-        "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\CopyArrayFromTypeTonother\\CopyArrayFromTypeTonother.csproj",
+        "projectPath": "F:\\MindMeld\\Basics\\CopyArrayFromTypeTonother\\CopyArrayFromTypeTonother.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\CopyArrayFromTypeTonother\\obj\\",
+        "outputPath": "F:\\MindMeld\\Basics\\CopyArrayFromTypeTonother\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

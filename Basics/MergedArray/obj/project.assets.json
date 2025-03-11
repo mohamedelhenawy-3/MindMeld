@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\MergedArray\\MergedArray.csproj",
+      "projectUniqueName": "F:\\MindMeld\\Basics\\MergedArray\\MergedArray.csproj",
       "projectName": "MergedArray",
-      "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\MergedArray\\MergedArray.csproj",
+      "projectPath": "F:\\MindMeld\\Basics\\MergedArray\\MergedArray.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\MergedArray\\obj\\",
+      "outputPath": "F:\\MindMeld\\Basics\\MergedArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\ReverseArray\\ReverseArray.csproj",
+      "projectUniqueName": "F:\\MindMeld\\Basics\\ReverseArray\\ReverseArray.csproj",
       "projectName": "ReverseArray",
-      "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\ReverseArray\\ReverseArray.csproj",
+      "projectPath": "F:\\MindMeld\\Basics\\ReverseArray\\ReverseArray.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\ReverseArray\\obj\\",
+      "outputPath": "F:\\MindMeld\\Basics\\ReverseArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

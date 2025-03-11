@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\sum  all digits of number\\sum  all digits of number.csproj": {}
+    "F:\\MindMeld\\Basics\\sum  all digits of number\\sum  all digits of number.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Day 1\\Basics C#\\sum  all digits of number\\sum  all digits of number.csproj": {
+    "F:\\MindMeld\\Basics\\sum  all digits of number\\sum  all digits of number.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\sum  all digits of number\\sum  all digits of number.csproj",
+        "projectUniqueName": "F:\\MindMeld\\Basics\\sum  all digits of number\\sum  all digits of number.csproj",
         "projectName": "sum  all digits of number",
-        "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\sum  all digits of number\\sum  all digits of number.csproj",
+        "projectPath": "F:\\MindMeld\\Basics\\sum  all digits of number\\sum  all digits of number.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\sum  all digits of number\\obj\\",
+        "outputPath": "F:\\MindMeld\\Basics\\sum  all digits of number\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

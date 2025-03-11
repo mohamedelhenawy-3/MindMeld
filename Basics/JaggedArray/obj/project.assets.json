@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\JaggedArray\\JaggedArray.csproj",
+      "projectUniqueName": "F:\\MindMeld\\Basics\\JaggedArray\\JaggedArray.csproj",
       "projectName": "JaggedArray",
-      "projectPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\JaggedArray\\JaggedArray.csproj",
+      "projectPath": "F:\\MindMeld\\Basics\\JaggedArray\\JaggedArray.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Day 1\\Basics C#\\JaggedArray\\obj\\",
+      "outputPath": "F:\\MindMeld\\Basics\\JaggedArray\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Odd Numbers within a Range.")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e9fbbef76007b3c2fcdaa7c472eaf947188ced7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Odd Numbers within a Range.")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Odd Numbers within a Range.")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\bin\Debug\net8.0\ClosestNumToLargeBySorting.exe
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\bin\Debug\net8.0\ClosestNumToLargeBySorting.deps.json
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\bin\Debug\net8.0\ClosestNumToLargeBySorting.runtimeconfig.json
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\bin\Debug\net8.0\ClosestNumToLargeBySorting.dll
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\bin\Debug\net8.0\ClosestNumToLargeBySorting.pdb
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\obj\Debug\net8.0\ClosestNumToLargeBySorting.GeneratedMSBuildEditorConfig.editorconfig
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\obj\Debug\net8.0\ClosestNumToLargeBySorting.AssemblyInfoInputs.cache
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\obj\Debug\net8.0\ClosestNumToLargeBySorting.AssemblyInfo.cs
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\obj\Debug\net8.0\ClosestNumToLargeBySorting.csproj.CoreCompileInputs.cache
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\obj\Debug\net8.0\ClosestNumToLargeBySorting.sourcelink.json
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\obj\Debug\net8.0\ClosestNumToLargeBySorting.dll
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\obj\Debug\net8.0\refint\ClosestNumToLargeBySorting.dll
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\obj\Debug\net8.0\ClosestNumToLargeBySorting.pdb
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\obj\Debug\net8.0\ClosestNumToLargeBySorting.genruntimeconfig.cache
+F:\MindMeld\Basics\ClosestNumToLargeBySorting\obj\Debug\net8.0\ref\ClosestNumToLargeBySorting.dll

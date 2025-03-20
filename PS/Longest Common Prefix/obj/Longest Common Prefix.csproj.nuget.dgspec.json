@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\Longest Common Prefix\\Longest Common Prefix.csproj": {}
+    "F:\\MindMeld\\PS\\Longest Common Prefix\\Longest Common Prefix.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\Longest Common Prefix\\Longest Common Prefix.csproj": {
+    "F:\\MindMeld\\PS\\Longest Common Prefix\\Longest Common Prefix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\Longest Common Prefix\\Longest Common Prefix.csproj",
+        "projectUniqueName": "F:\\MindMeld\\PS\\Longest Common Prefix\\Longest Common Prefix.csproj",
         "projectName": "Longest Common Prefix",
-        "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Longest Common Prefix\\Longest Common Prefix.csproj",
+        "projectPath": "F:\\MindMeld\\PS\\Longest Common Prefix\\Longest Common Prefix.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Longest Common Prefix\\obj\\",
+        "outputPath": "F:\\MindMeld\\PS\\Longest Common Prefix\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

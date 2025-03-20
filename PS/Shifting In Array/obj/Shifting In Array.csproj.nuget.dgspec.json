@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\Shifting In Array\\Shifting In Array.csproj": {}
+    "F:\\MindMeld\\PS\\Shifting In Array\\Shifting In Array.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\Shifting In Array\\Shifting In Array.csproj": {
+    "F:\\MindMeld\\PS\\Shifting In Array\\Shifting In Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\Shifting In Array\\Shifting In Array.csproj",
+        "projectUniqueName": "F:\\MindMeld\\PS\\Shifting In Array\\Shifting In Array.csproj",
         "projectName": "Shifting In Array",
-        "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Shifting In Array\\Shifting In Array.csproj",
+        "projectPath": "F:\\MindMeld\\PS\\Shifting In Array\\Shifting In Array.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Shifting In Array\\obj\\",
+        "outputPath": "F:\\MindMeld\\PS\\Shifting In Array\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

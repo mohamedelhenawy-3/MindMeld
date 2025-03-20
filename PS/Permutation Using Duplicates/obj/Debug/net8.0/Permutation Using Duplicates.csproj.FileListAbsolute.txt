@@ -1,0 +1,15 @@
+F:\MindMeld\PS\Permutation Using Duplicates\bin\Debug\net8.0\Permutation Using Duplicates.exe
+F:\MindMeld\PS\Permutation Using Duplicates\bin\Debug\net8.0\Permutation Using Duplicates.deps.json
+F:\MindMeld\PS\Permutation Using Duplicates\bin\Debug\net8.0\Permutation Using Duplicates.runtimeconfig.json
+F:\MindMeld\PS\Permutation Using Duplicates\bin\Debug\net8.0\Permutation Using Duplicates.dll
+F:\MindMeld\PS\Permutation Using Duplicates\bin\Debug\net8.0\Permutation Using Duplicates.pdb
+F:\MindMeld\PS\Permutation Using Duplicates\obj\Debug\net8.0\Permutation Using Duplicates.GeneratedMSBuildEditorConfig.editorconfig
+F:\MindMeld\PS\Permutation Using Duplicates\obj\Debug\net8.0\Permutation Using Duplicates.AssemblyInfoInputs.cache
+F:\MindMeld\PS\Permutation Using Duplicates\obj\Debug\net8.0\Permutation Using Duplicates.AssemblyInfo.cs
+F:\MindMeld\PS\Permutation Using Duplicates\obj\Debug\net8.0\Permutation Using Duplicates.csproj.CoreCompileInputs.cache
+F:\MindMeld\PS\Permutation Using Duplicates\obj\Debug\net8.0\Permutation Using Duplicates.sourcelink.json
+F:\MindMeld\PS\Permutation Using Duplicates\obj\Debug\net8.0\Permutation Using Duplicates.dll
+F:\MindMeld\PS\Permutation Using Duplicates\obj\Debug\net8.0\refint\Permutation Using Duplicates.dll
+F:\MindMeld\PS\Permutation Using Duplicates\obj\Debug\net8.0\Permutation Using Duplicates.pdb
+F:\MindMeld\PS\Permutation Using Duplicates\obj\Debug\net8.0\Permutation Using Duplicates.genruntimeconfig.cache
+F:\MindMeld\PS\Permutation Using Duplicates\obj\Debug\net8.0\ref\Permutation Using Duplicates.dll

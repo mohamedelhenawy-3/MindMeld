@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\ATM Transactions\\ATM Transactions.csproj",
+      "projectUniqueName": "F:\\MindMeld\\PS\\ATM Transactions\\ATM Transactions.csproj",
       "projectName": "ATM Transactions",
-      "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\ATM Transactions\\ATM Transactions.csproj",
+      "projectPath": "F:\\MindMeld\\PS\\ATM Transactions\\ATM Transactions.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\ATM Transactions\\obj\\",
+      "outputPath": "F:\\MindMeld\\PS\\ATM Transactions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

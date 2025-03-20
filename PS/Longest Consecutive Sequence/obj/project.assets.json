@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\Longest Consecutive Sequence\\Longest Consecutive Sequence.csproj",
+      "projectUniqueName": "F:\\MindMeld\\PS\\Longest Consecutive Sequence\\Longest Consecutive Sequence.csproj",
       "projectName": "Longest Consecutive Sequence",
-      "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Longest Consecutive Sequence\\Longest Consecutive Sequence.csproj",
+      "projectPath": "F:\\MindMeld\\PS\\Longest Consecutive Sequence\\Longest Consecutive Sequence.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Longest Consecutive Sequence\\obj\\",
+      "outputPath": "F:\\MindMeld\\PS\\Longest Consecutive Sequence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

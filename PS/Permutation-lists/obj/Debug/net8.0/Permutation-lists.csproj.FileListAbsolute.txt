@@ -1,0 +1,15 @@
+F:\MindMeld\PS\Permutation-lists\bin\Debug\net8.0\Permutation-lists.exe
+F:\MindMeld\PS\Permutation-lists\bin\Debug\net8.0\Permutation-lists.deps.json
+F:\MindMeld\PS\Permutation-lists\bin\Debug\net8.0\Permutation-lists.runtimeconfig.json
+F:\MindMeld\PS\Permutation-lists\bin\Debug\net8.0\Permutation-lists.dll
+F:\MindMeld\PS\Permutation-lists\bin\Debug\net8.0\Permutation-lists.pdb
+F:\MindMeld\PS\Permutation-lists\obj\Debug\net8.0\Permutation-lists.GeneratedMSBuildEditorConfig.editorconfig
+F:\MindMeld\PS\Permutation-lists\obj\Debug\net8.0\Permutation-lists.AssemblyInfoInputs.cache
+F:\MindMeld\PS\Permutation-lists\obj\Debug\net8.0\Permutation-lists.AssemblyInfo.cs
+F:\MindMeld\PS\Permutation-lists\obj\Debug\net8.0\Permutation-lists.csproj.CoreCompileInputs.cache
+F:\MindMeld\PS\Permutation-lists\obj\Debug\net8.0\Permutation-lists.sourcelink.json
+F:\MindMeld\PS\Permutation-lists\obj\Debug\net8.0\Permutation-lists.dll
+F:\MindMeld\PS\Permutation-lists\obj\Debug\net8.0\refint\Permutation-lists.dll
+F:\MindMeld\PS\Permutation-lists\obj\Debug\net8.0\Permutation-lists.pdb
+F:\MindMeld\PS\Permutation-lists\obj\Debug\net8.0\Permutation-lists.genruntimeconfig.cache
+F:\MindMeld\PS\Permutation-lists\obj\Debug\net8.0\ref\Permutation-lists.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\SearchforIndex\\SearchforIndex.csproj": {}
+    "F:\\MindMeld\\PS\\SearchforIndex\\SearchforIndex.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\SearchforIndex\\SearchforIndex.csproj": {
+    "F:\\MindMeld\\PS\\SearchforIndex\\SearchforIndex.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\SearchforIndex\\SearchforIndex.csproj",
+        "projectUniqueName": "F:\\MindMeld\\PS\\SearchforIndex\\SearchforIndex.csproj",
         "projectName": "SearchforIndex",
-        "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\SearchforIndex\\SearchforIndex.csproj",
+        "projectPath": "F:\\MindMeld\\PS\\SearchforIndex\\SearchforIndex.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\SearchforIndex\\obj\\",
+        "outputPath": "F:\\MindMeld\\PS\\SearchforIndex\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

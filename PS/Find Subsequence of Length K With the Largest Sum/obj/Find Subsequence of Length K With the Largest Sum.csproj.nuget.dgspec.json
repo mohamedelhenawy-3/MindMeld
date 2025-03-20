@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\Find Subsequence of Length K With the Largest Sum\\Find Subsequence of Length K With the Largest Sum.csproj": {}
+    "F:\\MindMeld\\PS\\Find Subsequence of Length K With the Largest Sum\\Find Subsequence of Length K With the Largest Sum.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\Find Subsequence of Length K With the Largest Sum\\Find Subsequence of Length K With the Largest Sum.csproj": {
+    "F:\\MindMeld\\PS\\Find Subsequence of Length K With the Largest Sum\\Find Subsequence of Length K With the Largest Sum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\Find Subsequence of Length K With the Largest Sum\\Find Subsequence of Length K With the Largest Sum.csproj",
+        "projectUniqueName": "F:\\MindMeld\\PS\\Find Subsequence of Length K With the Largest Sum\\Find Subsequence of Length K With the Largest Sum.csproj",
         "projectName": "Find Subsequence of Length K With the Largest Sum",
-        "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Find Subsequence of Length K With the Largest Sum\\Find Subsequence of Length K With the Largest Sum.csproj",
+        "projectPath": "F:\\MindMeld\\PS\\Find Subsequence of Length K With the Largest Sum\\Find Subsequence of Length K With the Largest Sum.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Find Subsequence of Length K With the Largest Sum\\obj\\",
+        "outputPath": "F:\\MindMeld\\PS\\Find Subsequence of Length K With the Largest Sum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

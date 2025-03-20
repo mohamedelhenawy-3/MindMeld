@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Longest_Common_Prefix
-build_property.ProjectDir = F:\C# Problems and solutions\Special  c# Programs\Longest Common Prefix\
+build_property.ProjectDir = F:\MindMeld\PS\Longest Common Prefix\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

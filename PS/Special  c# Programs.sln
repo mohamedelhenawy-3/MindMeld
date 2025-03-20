@@ -37,17 +37,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Multicasting Delgates", "Mu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventNotification", "EventNotification\EventNotification.csproj", "{6D5B716B-BE35-427D-BABD-809B5E5BF7B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shifting In Array", "Shifting In Array\Shifting In Array.csproj", "{9A0108FB-F9E1-4641-BFBB-6844C9D48F7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shifting In Array", "Shifting In Array\Shifting In Array.csproj", "{9A0108FB-F9E1-4641-BFBB-6844C9D48F7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Reverse String\Reverse String.csproj", "{3699498B-D163-4C77-8C39-8751A787CDE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse String", "Reverse String\Reverse String.csproj", "{3699498B-D163-4C77-8C39-8751A787CDE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Prefix of Word", "Reverse Prefix of Word\Reverse Prefix of Word.csproj", "{3FC184E1-35DC-40CB-8D69-F430665011A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Prefix of Word", "Reverse Prefix of Word\Reverse Prefix of Word.csproj", "{3FC184E1-35DC-40CB-8D69-F430665011A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertBetween Int and string", "ConvertBetween Int and string\ConvertBetween Int and string.csproj", "{235A7778-5B72-4A87-910E-AF8EEFEE6E02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertBetween Int and string", "ConvertBetween Int and string\ConvertBetween Int and string.csproj", "{235A7778-5B72-4A87-910E-AF8EEFEE6E02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Convert Between int -string", "Convert Between int -string\Convert Between int -string.csproj", "{1CBA7605-D43E-4DFE-9DD0-D97EE864BA06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Convert Between int -string", "Convert Between int -string\Convert Between int -string.csproj", "{1CBA7605-D43E-4DFE-9DD0-D97EE864BA06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Subsequence of Length K With the Largest Sum", "Find Subsequence of Length K With the Largest Sum\Find Subsequence of Length K With the Largest Sum.csproj", "{A03F88E9-2CFC-4EEC-92B3-A74C537EFCCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Subsequence of Length K With the Largest Sum", "Find Subsequence of Length K With the Largest Sum\Find Subsequence of Length K With the Largest Sum.csproj", "{A03F88E9-2CFC-4EEC-92B3-A74C537EFCCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutations", "Permutations\Permutations.csproj", "{8A768B08-9454-4CC9-AA5C-4E2F44C1443A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation-lists", "Permutation-lists\Permutation-lists.csproj", "{B1031AE1-915F-43C8-A2F0-8C27A60EE76E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Permutation Using Duplicates", "Permutation Using Duplicates\Permutation Using Duplicates.csproj", "{42B8F339-5C8F-498B-845B-79D8A3114555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +153,18 @@ Global
 		{A03F88E9-2CFC-4EEC-92B3-A74C537EFCCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A03F88E9-2CFC-4EEC-92B3-A74C537EFCCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A03F88E9-2CFC-4EEC-92B3-A74C537EFCCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A768B08-9454-4CC9-AA5C-4E2F44C1443A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A768B08-9454-4CC9-AA5C-4E2F44C1443A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A768B08-9454-4CC9-AA5C-4E2F44C1443A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A768B08-9454-4CC9-AA5C-4E2F44C1443A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1031AE1-915F-43C8-A2F0-8C27A60EE76E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1031AE1-915F-43C8-A2F0-8C27A60EE76E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1031AE1-915F-43C8-A2F0-8C27A60EE76E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1031AE1-915F-43C8-A2F0-8C27A60EE76E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B8F339-5C8F-498B-845B-79D8A3114555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B8F339-5C8F-498B-845B-79D8A3114555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B8F339-5C8F-498B-845B-79D8A3114555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B8F339-5C8F-498B-845B-79D8A3114555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

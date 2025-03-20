@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\IpAddress\\IPAddress.csproj": {}
+    "F:\\MindMeld\\PS\\IpAddress\\IPAddress.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\IpAddress\\IPAddress.csproj": {
+    "F:\\MindMeld\\PS\\IpAddress\\IPAddress.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\IpAddress\\IPAddress.csproj",
+        "projectUniqueName": "F:\\MindMeld\\PS\\IpAddress\\IPAddress.csproj",
         "projectName": "IPAddress",
-        "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\IpAddress\\IPAddress.csproj",
+        "projectPath": "F:\\MindMeld\\PS\\IpAddress\\IPAddress.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\IpAddress\\obj\\",
+        "outputPath": "F:\\MindMeld\\PS\\IpAddress\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

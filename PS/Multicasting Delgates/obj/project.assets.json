@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\Multicasting Delgates\\Multicasting Delgates.csproj",
+      "projectUniqueName": "F:\\MindMeld\\PS\\Multicasting Delgates\\Multicasting Delgates.csproj",
       "projectName": "Multicasting Delgates",
-      "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Multicasting Delgates\\Multicasting Delgates.csproj",
+      "projectPath": "F:\\MindMeld\\PS\\Multicasting Delgates\\Multicasting Delgates.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Multicasting Delgates\\obj\\",
+      "outputPath": "F:\\MindMeld\\PS\\Multicasting Delgates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\Closest number\\Closest number.csproj",
+      "projectUniqueName": "F:\\MindMeld\\PS\\Closest number\\Closest number.csproj",
       "projectName": "Closest number",
-      "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Closest number\\Closest number.csproj",
+      "projectPath": "F:\\MindMeld\\PS\\Closest number\\Closest number.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Closest number\\obj\\",
+      "outputPath": "F:\\MindMeld\\PS\\Closest number\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

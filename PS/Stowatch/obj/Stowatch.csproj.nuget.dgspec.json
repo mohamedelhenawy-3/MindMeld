@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\Stowatch\\Stowatch.csproj": {}
+    "F:\\MindMeld\\PS\\Stowatch\\Stowatch.csproj": {}
   },
   "projects": {
-    "F:\\C# Problems and solutions\\Special  c# Programs\\Stowatch\\Stowatch.csproj": {
+    "F:\\MindMeld\\PS\\Stowatch\\Stowatch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\Stowatch\\Stowatch.csproj",
+        "projectUniqueName": "F:\\MindMeld\\PS\\Stowatch\\Stowatch.csproj",
         "projectName": "Stowatch",
-        "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Stowatch\\Stowatch.csproj",
+        "projectPath": "F:\\MindMeld\\PS\\Stowatch\\Stowatch.csproj",
         "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-        "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Stowatch\\obj\\",
+        "outputPath": "F:\\MindMeld\\PS\\Stowatch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

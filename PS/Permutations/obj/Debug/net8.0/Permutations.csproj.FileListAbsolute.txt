@@ -1,0 +1,15 @@
+F:\MindMeld\PS\Permutations\bin\Debug\net8.0\Permutations.exe
+F:\MindMeld\PS\Permutations\bin\Debug\net8.0\Permutations.deps.json
+F:\MindMeld\PS\Permutations\bin\Debug\net8.0\Permutations.runtimeconfig.json
+F:\MindMeld\PS\Permutations\bin\Debug\net8.0\Permutations.dll
+F:\MindMeld\PS\Permutations\bin\Debug\net8.0\Permutations.pdb
+F:\MindMeld\PS\Permutations\obj\Debug\net8.0\Permutations.GeneratedMSBuildEditorConfig.editorconfig
+F:\MindMeld\PS\Permutations\obj\Debug\net8.0\Permutations.AssemblyInfoInputs.cache
+F:\MindMeld\PS\Permutations\obj\Debug\net8.0\Permutations.AssemblyInfo.cs
+F:\MindMeld\PS\Permutations\obj\Debug\net8.0\Permutations.csproj.CoreCompileInputs.cache
+F:\MindMeld\PS\Permutations\obj\Debug\net8.0\Permutations.sourcelink.json
+F:\MindMeld\PS\Permutations\obj\Debug\net8.0\Permutations.dll
+F:\MindMeld\PS\Permutations\obj\Debug\net8.0\refint\Permutations.dll
+F:\MindMeld\PS\Permutations\obj\Debug\net8.0\Permutations.pdb
+F:\MindMeld\PS\Permutations\obj\Debug\net8.0\Permutations.genruntimeconfig.cache
+F:\MindMeld\PS\Permutations\obj\Debug\net8.0\ref\Permutations.dll

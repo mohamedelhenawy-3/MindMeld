@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\C# Problems and solutions\\Special  c# Programs\\Combination Sum Without Dup\\Combination Sum Without Dup.csproj",
+      "projectUniqueName": "F:\\MindMeld\\PS\\Combination Sum Without Dup\\Combination Sum Without Dup.csproj",
       "projectName": "Combination Sum Without Dup",
-      "projectPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Combination Sum Without Dup\\Combination Sum Without Dup.csproj",
+      "projectPath": "F:\\MindMeld\\PS\\Combination Sum Without Dup\\Combination Sum Without Dup.csproj",
       "packagesPath": "C:\\Users\\ELhenawy\\.nuget\\packages\\",
-      "outputPath": "F:\\C# Problems and solutions\\Special  c# Programs\\Combination Sum Without Dup\\obj\\",
+      "outputPath": "F:\\MindMeld\\PS\\Combination Sum Without Dup\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELhenawy\\AppData\\Roaming\\NuGet\\NuGet.Config",

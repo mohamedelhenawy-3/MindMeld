@@ -1,0 +1,15 @@
+F:\MindMeld\PS\Spiral Matrix\bin\Debug\net8.0\Spiral Matrix.exe
+F:\MindMeld\PS\Spiral Matrix\bin\Debug\net8.0\Spiral Matrix.deps.json
+F:\MindMeld\PS\Spiral Matrix\bin\Debug\net8.0\Spiral Matrix.runtimeconfig.json
+F:\MindMeld\PS\Spiral Matrix\bin\Debug\net8.0\Spiral Matrix.dll
+F:\MindMeld\PS\Spiral Matrix\bin\Debug\net8.0\Spiral Matrix.pdb
+F:\MindMeld\PS\Spiral Matrix\obj\Debug\net8.0\Spiral Matrix.GeneratedMSBuildEditorConfig.editorconfig
+F:\MindMeld\PS\Spiral Matrix\obj\Debug\net8.0\Spiral Matrix.AssemblyInfoInputs.cache
+F:\MindMeld\PS\Spiral Matrix\obj\Debug\net8.0\Spiral Matrix.AssemblyInfo.cs
+F:\MindMeld\PS\Spiral Matrix\obj\Debug\net8.0\Spiral Matrix.csproj.CoreCompileInputs.cache
+F:\MindMeld\PS\Spiral Matrix\obj\Debug\net8.0\Spiral Matrix.sourcelink.json
+F:\MindMeld\PS\Spiral Matrix\obj\Debug\net8.0\Spiral Matrix.dll
+F:\MindMeld\PS\Spiral Matrix\obj\Debug\net8.0\refint\Spiral Matrix.dll
+F:\MindMeld\PS\Spiral Matrix\obj\Debug\net8.0\Spiral Matrix.pdb
+F:\MindMeld\PS\Spiral Matrix\obj\Debug\net8.0\Spiral Matrix.genruntimeconfig.cache
+F:\MindMeld\PS\Spiral Matrix\obj\Debug\net8.0\ref\Spiral Matrix.dll

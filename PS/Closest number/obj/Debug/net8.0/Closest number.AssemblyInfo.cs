@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Closest number")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b9cd4f2890e669d58094b6a621a018e07d8a70db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fb51fe78aa060fe05d3151b5aaf1b514d181f0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Closest number")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Closest number")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

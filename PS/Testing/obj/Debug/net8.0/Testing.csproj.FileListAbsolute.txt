@@ -12,3 +12,18 @@ F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\refin
 F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\Testing.pdb
 F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\Testing.genruntimeconfig.cache
 F:\C# Problems and solutions\Special  c# Programs\Testing\obj\Debug\net8.0\ref\Testing.dll
+F:\MindMeld\PS\Testing\bin\Debug\net8.0\Testing.exe
+F:\MindMeld\PS\Testing\bin\Debug\net8.0\Testing.deps.json
+F:\MindMeld\PS\Testing\bin\Debug\net8.0\Testing.runtimeconfig.json
+F:\MindMeld\PS\Testing\bin\Debug\net8.0\Testing.dll
+F:\MindMeld\PS\Testing\bin\Debug\net8.0\Testing.pdb
+F:\MindMeld\PS\Testing\obj\Debug\net8.0\Testing.GeneratedMSBuildEditorConfig.editorconfig
+F:\MindMeld\PS\Testing\obj\Debug\net8.0\Testing.AssemblyInfoInputs.cache
+F:\MindMeld\PS\Testing\obj\Debug\net8.0\Testing.AssemblyInfo.cs
+F:\MindMeld\PS\Testing\obj\Debug\net8.0\Testing.csproj.CoreCompileInputs.cache
+F:\MindMeld\PS\Testing\obj\Debug\net8.0\Testing.sourcelink.json
+F:\MindMeld\PS\Testing\obj\Debug\net8.0\Testing.dll
+F:\MindMeld\PS\Testing\obj\Debug\net8.0\refint\Testing.dll
+F:\MindMeld\PS\Testing\obj\Debug\net8.0\Testing.pdb
+F:\MindMeld\PS\Testing\obj\Debug\net8.0\Testing.genruntimeconfig.cache
+F:\MindMeld\PS\Testing\obj\Debug\net8.0\ref\Testing.dll

@@ -57,7 +57,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Permutation Using Duplicate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Subarray", "Maximum Subarray\Maximum Subarray.csproj", "{65686CA7-9891-4D10-97C1-EB7C42A7065C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spiral Matrix", "Spiral Matrix\Spiral Matrix.csproj", "{40B3D1F3-F535-475C-BAB7-35F212D52B3E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spiral Matrix", "Spiral Matrix\Spiral Matrix.csproj", "{40B3D1F3-F535-475C-BAB7-35F212D52B3E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spiral Matrix II", "Spiral Matrix II\Spiral Matrix II.csproj", "{4654599A-13B6-4200-8CE3-60EB7D68CA87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotation", "Rotation\Rotation.csproj", "{828BBFE0-F2F2-44EE-BDFF-A67B10D3455D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +181,14 @@ Global
 		{40B3D1F3-F535-475C-BAB7-35F212D52B3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40B3D1F3-F535-475C-BAB7-35F212D52B3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40B3D1F3-F535-475C-BAB7-35F212D52B3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4654599A-13B6-4200-8CE3-60EB7D68CA87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4654599A-13B6-4200-8CE3-60EB7D68CA87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4654599A-13B6-4200-8CE3-60EB7D68CA87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4654599A-13B6-4200-8CE3-60EB7D68CA87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{828BBFE0-F2F2-44EE-BDFF-A67B10D3455D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{828BBFE0-F2F2-44EE-BDFF-A67B10D3455D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{828BBFE0-F2F2-44EE-BDFF-A67B10D3455D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{828BBFE0-F2F2-44EE-BDFF-A67B10D3455D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

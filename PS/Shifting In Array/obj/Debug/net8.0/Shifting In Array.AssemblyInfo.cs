@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shifting In Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+085551ab588a664c1855649302199d35c6fa8462")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f02a113febd78d7f714dea83b33e7526bbb4feda")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shifting In Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shifting In Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

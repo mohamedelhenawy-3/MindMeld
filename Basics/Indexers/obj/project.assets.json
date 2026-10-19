@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Section\\MindMeld\\Basics\\Indexers\\Indexers.csproj",
+      "projectUniqueName": "D:\\C# Section\\MindMeld\\Basics\\Indexers\\Indexers.csproj",
       "projectName": "Indexers",
-      "projectPath": "E:\\C# Section\\MindMeld\\Basics\\Indexers\\Indexers.csproj",
+      "projectPath": "D:\\C# Section\\MindMeld\\Basics\\Indexers\\Indexers.csproj",
       "packagesPath": "C:\\Users\\Softlaptop\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Section\\MindMeld\\Basics\\Indexers\\obj\\",
+      "outputPath": "D:\\C# Section\\MindMeld\\Basics\\Indexers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

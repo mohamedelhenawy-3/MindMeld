@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Section\\MindMeld\\Basics\\ClosestNumToLargeBySorting\\ClosestNumToLargeBySorting.csproj",
+      "projectUniqueName": "D:\\C# Section\\MindMeld\\Basics\\ClosestNumToLargeBySorting\\ClosestNumToLargeBySorting.csproj",
       "projectName": "ClosestNumToLargeBySorting",
-      "projectPath": "E:\\C# Section\\MindMeld\\Basics\\ClosestNumToLargeBySorting\\ClosestNumToLargeBySorting.csproj",
+      "projectPath": "D:\\C# Section\\MindMeld\\Basics\\ClosestNumToLargeBySorting\\ClosestNumToLargeBySorting.csproj",
       "packagesPath": "C:\\Users\\Softlaptop\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Section\\MindMeld\\Basics\\ClosestNumToLargeBySorting\\obj\\",
+      "outputPath": "D:\\C# Section\\MindMeld\\Basics\\ClosestNumToLargeBySorting\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

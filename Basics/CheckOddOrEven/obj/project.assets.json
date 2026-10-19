@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Section\\MindMeld\\Basics\\CheckOddOrEven\\CheckOddOrEven.csproj",
+      "projectUniqueName": "D:\\C# Section\\MindMeld\\Basics\\CheckOddOrEven\\CheckOddOrEven.csproj",
       "projectName": "CheckOddOrEven",
-      "projectPath": "E:\\C# Section\\MindMeld\\Basics\\CheckOddOrEven\\CheckOddOrEven.csproj",
+      "projectPath": "D:\\C# Section\\MindMeld\\Basics\\CheckOddOrEven\\CheckOddOrEven.csproj",
       "packagesPath": "C:\\Users\\Softlaptop\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Section\\MindMeld\\Basics\\CheckOddOrEven\\obj\\",
+      "outputPath": "D:\\C# Section\\MindMeld\\Basics\\CheckOddOrEven\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Closest Num To Largest Num in Array")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f02a113febd78d7f714dea83b33e7526bbb4feda")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4dcf893d414d0c02d9222c0a2f14583aa2b8b7f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Closest Num To Largest Num in Array")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Closest Num To Largest Num in Array")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

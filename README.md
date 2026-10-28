@@ -1,2 +1,2 @@
 # MindMeld
-Solving Some Problems
+Problem Solving 

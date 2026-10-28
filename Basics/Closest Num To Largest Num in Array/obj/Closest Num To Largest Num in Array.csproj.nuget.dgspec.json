@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C# Section\\MindMeld\\Basics\\Closest Num To Largest Num in Array\\Closest Num To Largest Num in Array.csproj": {}
+    "J:\\C# Section\\MindMeld\\Basics\\Closest Num To Largest Num in Array\\Closest Num To Largest Num in Array.csproj": {}
   },
   "projects": {
-    "D:\\C# Section\\MindMeld\\Basics\\Closest Num To Largest Num in Array\\Closest Num To Largest Num in Array.csproj": {
+    "J:\\C# Section\\MindMeld\\Basics\\Closest Num To Largest Num in Array\\Closest Num To Largest Num in Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C# Section\\MindMeld\\Basics\\Closest Num To Largest Num in Array\\Closest Num To Largest Num in Array.csproj",
+        "projectUniqueName": "J:\\C# Section\\MindMeld\\Basics\\Closest Num To Largest Num in Array\\Closest Num To Largest Num in Array.csproj",
         "projectName": "Closest Num To Largest Num in Array",
-        "projectPath": "D:\\C# Section\\MindMeld\\Basics\\Closest Num To Largest Num in Array\\Closest Num To Largest Num in Array.csproj",
+        "projectPath": "J:\\C# Section\\MindMeld\\Basics\\Closest Num To Largest Num in Array\\Closest Num To Largest Num in Array.csproj",
         "packagesPath": "C:\\Users\\Softlaptop\\.nuget\\packages\\",
-        "outputPath": "D:\\C# Section\\MindMeld\\Basics\\Closest Num To Largest Num in Array\\obj\\",
+        "outputPath": "J:\\C# Section\\MindMeld\\Basics\\Closest Num To Largest Num in Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
